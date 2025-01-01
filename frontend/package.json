@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@polkadot/util-crypto": "^10.1.7",
-    "react": "^18.2.0",
+    "react": "^18.3.1",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
